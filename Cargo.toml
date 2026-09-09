@@ -2,7 +2,7 @@
 resolver = "2"
 members = [
     "crates/graphnet-core",
-#    "crates/graphnet-demo"
+    "crates/graphnet-demo"
 ]
 
 [workspace.package]
